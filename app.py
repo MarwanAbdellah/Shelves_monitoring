@@ -4,8 +4,8 @@ import numpy as np
 from ultralytics import YOLO
 
 # Load models
-shelf_model = YOLO(r"shelves\train3\weights\best.pt")
-product_model = YOLO(r"products\train8\weights\best.pt")
+shelf_model = YOLO(r"shelves/train3/weights/best.pt")
+product_model = YOLO(r"products/train8/weights/best.pt")
 
 # Page setup
 st.set_page_config(layout="wide")
