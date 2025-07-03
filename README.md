@@ -1,4 +1,3 @@
-```
 # 🧠 Smart Shelf Analyzer with YOLOv8 & YOLOv11
 
 A **Streamlit-based** smart shelf monitoring tool that uses **YOLOv8-OBB** for shelf detection and **YOLOv11** for product detection. It provides real-time insights into product counts per shelf and estimates the number of missing products using spatial analysis.
@@ -56,5 +55,3 @@ A **Streamlit-based** smart shelf monitoring tool that uses **YOLOv8-OBB** for s
 ## 📃 License
 
 MIT License © 2025 Marwan Abdellah
-```
-'''
