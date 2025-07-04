@@ -5,6 +5,9 @@ WORKDIR /app
 COPY app.py /app/app.py
 COPY shelves /app/shelves
 COPY products /app/products
+COPY shelf_analysis.py /app/
+COPY shelf_detection.py /app/
+COPY product_detection.py /app/
 
 EXPOSE 8051
 

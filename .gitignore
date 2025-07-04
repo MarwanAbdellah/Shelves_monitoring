@@ -4,3 +4,4 @@
 /runs
 /products
 *.pt
+/__pycache__
